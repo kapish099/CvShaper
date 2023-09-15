@@ -6,7 +6,7 @@ const NavBar = () => {
     <nav>
       <header>
         <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
-          <NavbarBrand href="/" className="font-weight-bold">CV Generator App</NavbarBrand>
+          <NavbarBrand href="/" className="font-weight-bold">Resume 360</NavbarBrand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto">
@@ -14,7 +14,7 @@ const NavBar = () => {
                 {/* github download repo button */}
                 <abbr title="download the project from github">
                   <GitHubButton
-                    href="https://github.com/rutkar11"
+                    href="https://github.com/kapish099"
                     data-icon="octicon-github"
                     aria-label="Github link for this project"
                   >
